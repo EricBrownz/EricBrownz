@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+| <a href="https://github.com/ericbrownz/ericbrownz"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ericbrownz&show_icons=true&hide_border=true" alt="Eric's Github stats" /></a> | <a href="https://github.com/ericbrownz?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericbrownz&layout=compact&hide_border=true" /></a> |
+| ------------- | ------------- |
