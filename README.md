@@ -15,5 +15,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| <a href="https://github.com/ericbrownz/ericbrownz"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ericbrownz&show_icons=true&hide_border=true" alt="Eric's Github stats" /></a> | <a href="https://github.com/ericbrownz?tab=repositories"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericbrownz&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
+<!-- Light Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericbrownz&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=default#gh-light-mode-only" alt="Eric's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=ericbrownz&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=default&hide_rank=true#gh-light-mode-only" alt="Eric's Github stats" />
+</a>
+</div>
+
+<!-- Dark Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericbrownz&layout=compact&langs_count=10&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Eric's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats.vercel.app/api?username=ericbrownz&show_icons=true&count_private=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&exclude_repo=github-readme-stats&theme=dark&bg_color=000000&hide_rank=true#gh-dark-mode-only" alt="Eric's Github stats" />
+</a>
+</div>
